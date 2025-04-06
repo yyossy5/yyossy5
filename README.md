@@ -1,8 +1,8 @@
 <p align="left"> 
   <!-- <img alt="Top Langs" height="175px" src="https://github-readme-stats-clone-aqmh.vercel.app/api?username=teihenn&count_private=true&show_icons=true&theme=transparent&rank_icon=github" /> -->
-  <img alt="Top Langs" height="175px" src="https://github-readme-stats-clone-aqmh.vercel.app/api?username=teihenn&count_private=true&show_icons=true&theme=transparent" />
+  <img alt="Top Langs" height="175px" src="https://github-readme-stats-clone-aqmh.vercel.app/api?username=yyossy5&count_private=true&show_icons=true&theme=transparent" />
   <!-- <img alt="github stats" height="175px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teihenn&theme=transparent" /> -->
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teihenn&&hide=autohotkey&layout=compact&theme=transparent" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyossy5&&hide=autohotkey&layout=compact&theme=transparent" />
 </p>
 
 <!--
